@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(241, 96, 11);
+    text-align: center;
+    background-color: beige;
+
+}h2 {
+    color: rgb(43, 226, 73);
+    text-align: center;
+
+}
+p {
+    color:  black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 1200;
+}

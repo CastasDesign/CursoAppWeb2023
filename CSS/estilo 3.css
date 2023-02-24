@@ -1,0 +1,9 @@
+p {
+    color: rgb(20, 54, 204);
+    text-align: center;
+    background-color: aqua;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 1200;
+}
