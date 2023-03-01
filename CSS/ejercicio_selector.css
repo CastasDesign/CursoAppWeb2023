@@ -1,0 +1,4 @@
+        div h1 {color: rgb(20, 54, 204); text-align: center; background-color:aqua; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: 1200;}
+        div > P {color: rgb(28, 241, 64); text-align: center; background-color:rgb(236, 240, 28); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 700;}
+        div + p {color: rgb(230, 18, 184); text-align: center; background-color:rgb(1, 8, 8); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 700;}
+        div ~ p {color: rgb(247, 101, 4); text-align: right; background-color:aqua;}
