@@ -1,0 +1,30 @@
+h1 {
+    color: #ff0000;
+    font-size: 60px;
+    font-family: Helvetica;
+    font-weight: 800;
+    font-style: oblique;
+    text-shadow: -5px -5px 6px #76e60d;
+    text-align: center;
+    line-height: 0.5cm;
+    letter-spacing: 0.5cm;
+    word-spacing: 20px;
+    background-color: olive;
+    box-shadow: 2px 7px 5px gray;
+}
+p {
+    color: #0de61f;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    text-shadow: 6px 6px 6px #4630a8;
+    text-align: right;
+    line-height: 2cm;
+    letter-spacing: 0.05cm;
+    word-spacing: 10px;
+    background-color: rgb(245, 154, 49);
+    box-shadow: 2px 7px 5px rgb(228, 13, 13);
+    padding: 20px 10px 6px 40px;
+
+}
